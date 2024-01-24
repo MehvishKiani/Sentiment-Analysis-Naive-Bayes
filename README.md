@@ -7,7 +7,7 @@ Overview
 This repository contains code for sentiment analysis using Multinomial Naive Bayes. The model is trained on the "logistic_features.csv" dataset from Google Drive, with features including bias, positive, and negative sentiments.
 
 Copy code
-git clone https://github.com/your-username/Sentiment-NB-Analysis.git
+git clone https://github.com/MehvishKiani/Sentiment-NB-Analysis.git
 Install dependencies.
 
 bash
